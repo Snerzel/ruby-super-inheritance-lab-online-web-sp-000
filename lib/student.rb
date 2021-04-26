@@ -2,7 +2,7 @@ class Student
 
 def hello
   super
-  puts puts "Hey there! I'm so excited to learn stuff."
+  puts "Hey there! I'm so excited to learn stuff."
 end
 
 
